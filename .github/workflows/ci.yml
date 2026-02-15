@@ -21,8 +21,6 @@ jobs:
         with:
           enable_cache: true
           format_output: true
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: ${{ runner.os }}-gems-
       - name: 🗜 ship the artifact for review
         uses: actions/upload-artifact@v6
         with:
