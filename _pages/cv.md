@@ -242,7 +242,13 @@ experience:
         plants
 awards_and_publications:
   - SimpliSafe FY2023 Inventor of the Year
-  - Multiple pending patent applications from my work at SimpliSafe
+  - 'US Patent 12,073,706: "Consolidated alarm screen" (August 2024)'
+  - 'US Patent 12,250,496: "Communication sessions with autonomous security device preparation" (March 2025)'
+  - 'US Patent 12,444,293: "Alarm platform with aggregated alarm events" (October 2025)'
+  - 'US Design Patent D1,087,116: "Display screen or portion thereof with a graphical user interface" (August 2025)'
+  - 'US Design Patent D1,087,115: "Display screen or portion thereof with a graphical user interface" (August 2025)'
+  - 'Canadian Patent 3,253,554: "Managing remote access to image capture devices" (December 2025)'
+  - Multiple additional pending patent applications from my work at SimpliSafe
 ---
 
 ## About Me
