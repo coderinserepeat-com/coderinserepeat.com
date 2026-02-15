@@ -40,8 +40,10 @@ experience:
         meaningful NPS improvements for the core intrusion monitoring business
       - |
         Launched SimpliSafe's Live Guard Protection (now Intruder Intervention) live video
-        monitoring capability, including privacy and trust & safety design, and hands-on
-        research that drove camera WiFi stabilization improvements
+        monitoring capability from scratch, designing the privacy and trust & safety
+        framework: event-driven access controls tied to alarm lifecycle, specialist
+        identity and authentication, and on-camera recording of specialist sessions for
+        customer auditability
       - |
         Established value-stream aligned teams with strong product partnerships, resetting
         a previously fractious engineering-product relationship into one that ICs actively
@@ -76,8 +78,9 @@ experience:
     bullets:
       - |
         Served as chief architect for all API-related work on a strategic core banking
-        replacement program spanning 10+ major workstreams and 50+ projects, providing
-        horizontal solution architecture and API expertise to hundreds of engineers
+        replacement program spanning 10+ major workstreams and 50+ projects; led a team
+        of 4 that provided horizontal solution architecture and API expertise to hundreds
+        of engineers
       - |
         Led greenfield enterprise implementations of API gateway (Apigee) and real-time
         event streaming (Kafka) infrastructure, serving as the architectural authority
@@ -164,9 +167,10 @@ experience:
         - MySQL
     bullets:
       - |
-        Joined as employee ~30 (pre-Series A) and led the team responsible for most
-        of Xamarin's customer-facing infrastructure: Store, Component Store, Single
-        Sign-On, and Licensing. Reported directly to the CEO.
+        Joined as employee ~30 (pre-Series A) and grew with the company to a few hundred
+        employees through Microsoft acquisition. Led the team responsible for most of
+        Xamarin's customer-facing infrastructure: Store, Component Store, Single Sign-On,
+        and Licensing. Reported directly to the CEO.
       - |
         Scaled and optimized critical licensing and billing infrastructure to serve
         billions of API calls per month on 2-3 EC2 instances, stabilizing a platform
