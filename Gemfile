@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
+gem "csv"
+gem "ostruct"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -14,14 +16,13 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
 end
 
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :windows, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.2.0", :platforms => [:windows]
 gem "minimal-mistakes-jekyll"
 gem "rake"
 gem "slugify"
 gem "classifier-reborn"
-gem 'gsl', git: 'https://github.com/SciRuby/rb-gsl.git', ref: '103a3e1'
