@@ -15,6 +15,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 4.0.1
+          bundler-cache: true
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
         with:
