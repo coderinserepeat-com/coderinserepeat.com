@@ -3,23 +3,16 @@ permalink: /cv/
 title: "Why should you hire me?"
 toc: true
 skills:
-  - Knowledge management
+  - Engineering leadership and organizational design
+  - Systems design and architecture
   - APIs and API design
   - Engineering systems and cultures
-  - Team/people management
-  - Systems design and architecture
-  - SDLC
-  - Software quality
-  - Debugging
+  - SDLC and software quality
+  - Knowledge management
+  - Applied AI and agentic workflows
   - Performance optimization
-tools:
-  - Confluence
-  - MediaWiki
-  - Jira
-  - Git
-  - GitHub
 experience:
-  - title: Director, Software Engineering
+  - title: Sr. Director, Software Engineering
     employer: SimpliSafe
     start: May 2021
     end: Present
@@ -30,27 +23,45 @@ experience:
       - OpenTelemetry
     bullets:
       - |
-        Led technology and engineering for SimpliSafe's professional alarm monitoring business, with
-        a highly engaged team of 20 engineering and QA staff, along with 10 supporting staff from
-        TPM, PM, and operations. During my time, surveyed engagement scores for my organization have
-        been 15+ points above the company average, and 30+ above in key areas of leadership and
-        management.
+        Built and led the engineering organization for SimpliSafe's professional alarm
+        monitoring business from the ground up, growing from 5 engineers to a 27-person
+        engineering team partnered with product management, UX, and a 165-person
+        operations organization. Surveyed engagement scores have consistently been
+        15+ points above the company average, and 30+ above in key areas of leadership
+        and management.
       - |
-        Built an organizational structure that enabled a smooth integration of engineering staff
-        and product managers into delivery and outcome-focused teams, resulting in on-time
-        delivery of 4 major programs between June 2022 and now that increased NPS, reduced
-        recurring costs, and built competitive advantage
+        Delivered measurable P&L impact through a next-generation specialist UX for the
+        Active Guard Protection outdoor monitoring business: 28% improvement in handle
+        time, 22% reduction in cost to serve, and a 14 percentage point improvement in
+        gross margin
       - |
-        Partnered with product, business, operations, and executives to define and promulgate
-        our strategy and roadmap for the professional monitoring business
+        Led the design and delivery of a new alarm platform that drove a 39% reduction in
+        handle time, 27% reduction in dispatch rate, 33% reduction in inbound calls, and
+        meaningful NPS improvements for the core intrusion monitoring business
       - |
-        Worked across the engineering organization to drive systems design improvements to
-        improve alarm monitoring outcomes and experiences, and drive improvements in systems
-        outside of my immediate purview
+        Launched SimpliSafe's Live Guard Protection (now Intruder Intervention) live video
+        monitoring capability, including privacy and trust & safety design, and hands-on
+        research that drove camera WiFi stabilization improvements
       - |
-        Work with dispatch partners to ensure scalable, reliable, and performant
-        delivery of alarms, tools that enable faster and more accurate decision making,
-        and prioritized dispatch of first responders
+        Established value-stream aligned teams with strong product partnerships, resetting
+        a previously fractious engineering-product relationship into one that ICs actively
+        praise; each team delivers toward clear customer value goals with a dedicated
+        product partner
+      - |
+        Built a common microservice platform that reduced new service standup time from
+        weeks to hours, enabling a single unified on-call rotation across the entire
+        organization through shared technology familiarity
+      - |
+        Developed a talent pipeline that produced a Distinguished SWE (now advising
+        Sr. Directors and the CTO), 2 Sr. Engineering Managers, and multiple Staff SWEs
+      - |
+        Partnered with product, business, operations, and executives to define strategy
+        and roadmap for the professional monitoring business, and drove systems design
+        improvements across the broader engineering organization
+      - |
+        Internal leader in applied AI: developed agentic workflows for engineering
+        productivity, delivered company-wide training on AI-augmented development, and
+        participated in enterprise tooling selection
   - title: Director, Systems Architecture
     employer: First Republic Bank
     start: February 2019
@@ -64,33 +75,26 @@ experience:
       - AWS
     bullets:
       - |
-        Led architecture efforts on enterprise-wide initiatives for API
-        gateway and real-time data implementations with Apigee and Kafka
+        Served as chief architect for all API-related work on a strategic core banking
+        replacement program spanning 10+ major workstreams and 50+ projects, providing
+        horizontal solution architecture and API expertise to hundreds of engineers
       - |
-        Led a small architecture team working as horizontal solution
-        architecture and API experts for a banking core replacement effort
-        (10+ major workstreams, 50+ total projects), serving 100s of engineers
-        and solution architects
+        Led greenfield enterprise implementations of API gateway (Apigee) and real-time
+        event streaming (Kafka) infrastructure, serving as the architectural authority
+        for both platforms
       - |
-        Led enterprise efforts on software quality and SDLC compliance,
-        including devising new quality metrics based on engineering community
-        health
-      - |
-        Built out developer guidance on application architecture/non-functional
-        requirements, software patterns, system design, and API design
-      - |
-        Worked with diverse teams across lines of business to help drive
-        technology roadmaps, as well as identify opportunities for strategic
+        Worked with VP and SVP-level business technology partners across lines of
+        business to drive technology roadmaps and identify opportunities for strategic
         alignment and reuse
       - |
-        Served as a subject matter expert on all aspects of software
-        development: technology stack selection, framework/library evaluation,
-        code review, etc.
+        Led enterprise efforts on software quality and SDLC compliance, and built
+        developer guidance on application architecture, non-functional requirements,
+        software patterns, and API design
       - |
-        Worked with teams to help transition and structure new knowledge
-        management facilities, including moving information from Sharepoint to
-        Confluence, and establihing workflow guidelines for Jira
-  - title: Principal Engineering Manager
+        Drove knowledge management improvements across the engineering organization,
+        including transitioning from SharePoint to Confluence and establishing
+        workflow guidelines for Jira
+  - title: Principal Software Engineering Manager
     employer: CareStack
     start: October 2018
     end: December 2018
@@ -102,14 +106,11 @@ experience:
     bullets:
       - |
         Led a tribe of 17 engineers working on the front office portions of
-        CareStack's dental practice management system
+        CareStack's dental practice management system, organizing the team into
+        multiple squads with product focus areas
       - |
         Championed and implemented engineering systems and culture changes to
         improve throughput, output quality, and quality-of-life for developers
-      - |
-        Mentored engineers on the team, ranging from senior to very junior and
-        organized team into multiple squads with product focus areas to further
-        improve the way we worked
       - |
         Led a release that fixed dozens of bugs and resulted in dramatic
         stability and reliability improvements, including a 1000x performance
@@ -131,28 +132,21 @@ experience:
         - Azure DevOps
     bullets:
       - |
-        Planned and executed on transition of Xamarin services and teams into
-        Microsoft as part of Microsoft's acquisition of Xamarin
+        Planned and executed the post-acquisition transition of Xamarin services and
+        teams into Microsoft, migrating half a dozen critical services (sales pipeline,
+        activation/DRM, SSO) and finding landing spots for team members across the
+        new organization
       - |
-        Moved to the Xamarin Workbooks team as part of winding down Xamarin
-        infrastrucure and operations
+        Joined the Xamarin Workbooks team as a senior contributor after winding down
+        Xamarin commerce operations; drove an early bet on WebAssembly-based evaluation
+        that anticipated the shift to browser-based developer tooling
       - |
-        Drove Workbooks integration with Xamarin.Forms, including integration
-        into the layout inspector and evaluation engine, as well as correct
-        mapping of the native and Xamarin.Forms visual trees
+        Developed engineers who went on to significant roles: TypeScript compiler
+        team, Sr/Staff SWEs at GitHub, a startup co-founder, and a Principal SWE
+        Manager at Microsoft
       - |
-        Led accessibility improvements to the desktop client and web editing
-        surface, including new design and color elements
-      - |
-        Implemented an improved plugin/pipeline system that powered 3rd party
-        integrations with Workbooks
-      - |
-        Built a WebAssembly evaluation environment for Xamarin Workbooks that
-        leveraged a horizontally scalable server-side for compilation, while
-        remoting execution into a WebAssembly-hosted Mono VM
-      - |
-        Worked closely with relese engineering/management teams to maintain and
-        improve engineering/build systems that powered day-to-day work and
+        Worked closely with release engineering and management teams to maintain and
+        improve engineering and build systems that powered day-to-day work and
         release efforts
   - title: Engineering Manager/Operations Lead
     employer: Xamarin
@@ -170,29 +164,28 @@ experience:
         - MySQL
     bullets:
       - |
-        Led the team responsible for most of Xamarin's customer-facing
-        infrastructure (Xamarin Store, Component Store, Single Sign-On,
-        Licensing)
+        Joined as employee ~30 (pre-Series A) and led the team responsible for most
+        of Xamarin's customer-facing infrastructure: Store, Component Store, Single
+        Sign-On, and Licensing. Reported directly to the CEO.
       - |
-        Scaled and optimized infrastructure, serving a few billion API calls per
-        month on minimal hardware
+        Scaled and optimized critical licensing and billing infrastructure to serve
+        billions of API calls per month on 2-3 EC2 instances, stabilizing a platform
+        whose reliability had become a running joke at developer conferences
       - |
-        Devised a novel approach to licensing infrastructure from both the
-        server and client side, resulting in more robust client licensing, and
-        greatly improved performance, reliability, and debuggability of the
-        infrastructure itself
+        Built a business intelligence platform that powered Series C fundraising,
+        enabling cohort-based analysis of ARR, LTV/CAC, and customer behavior
+        that connected product decisions to business outcomes
       - |
-        Developed and maintained processes to improve efficiency of sales and
-        support process, reducing the time it took to deliver and fulfill a
-        customer quote to <30s
+        Transformed the sales quote process from a painful manual workflow to a
+        one-click Salesforce integration, reducing customer quote fulfillment
+        time to under 30 seconds
       - |
-        Worked closely with finance and executive teams on business
-        intelligence, fundraising, and general operations understanding. Devised
-        new spins and presentations of data, and correlated it to
-        product decisions and output.
+        Devised a novel approach to licensing infrastructure from both the server
+        and client side, resulting in more robust client licensing and greatly
+        improved performance, reliability, and debuggability
       - |
-        Built the Xamarin component store and worked on its integration into the
-        Xamarin Studio IDE, as well as contributing general fixes to the IDE
+        Participated in Microsoft acquisition due diligence, providing detailed
+        knowledge of sales infrastructure and customer-facing systems
   - title: Software Developer/Consultant
     employer: Cane Systems
     start: August 2010
@@ -251,29 +244,27 @@ awards_and_publications:
   - Multiple additional pending patent applications from my work at SimpliSafe
 ---
 
+<p><a href="/assets/Bojan Rajkovic - Resume.pdf" class="btn btn--primary">Download Resume (PDF)</a></p>
+
 ## About Me
 
-Broadly speaking, I'm T-shaped &mdash; I'm comfortable leading teams and
-managing people, diving into code (writing, reviewing, debugging, optimization,
-etc.), building infrastructure, working on engineering systems and culture,
-building software development lifecycle policy, structuring out knowledge
-management (ask me about why it's key to healthy organizations!), and designing
-systems architectures. I'm a Git wizard, a comfortable and proficient technical
-writer, and I love to teach and mentor.
+I build engineering organizations that deliver measurable business outcomes &mdash;
+not by accident, but by design. I believe in value-stream aligned teams where engineers
+own their products and understand the business they operate in, rather than working as
+passive order-takers. My teams are consistently highly engaged, care deeply about their
+customers, and it shows in their results.
 
-I'm comfortable learning on the fly &mdash; I firmly believe that for most
-engineers, the things you already know aren't important, but your curiosity and
-learning/knowing how to learn are what will determine your success. I love
-building organizations and finding efficiences and economies of scale and
-structure that make collaboration easier; my teams are consistently
-highly engaged with their work, deeply care about their customers and products,
-and it shows in their outcomes.
+I'm T-shaped: comfortable leading organizations of 30+ engineers, diving deep into
+architecture and code, building platforms, designing systems, and working cross-functionally
+with product, operations, and executives. I've been employee 30 at a pre-Series A startup
+that was acquired by Microsoft, built the business intelligence that powered fundraising,
+and scaled engineering organizations that underpin hundreds of millions in annual recurring
+revenue.
 
-If you're a startup, I also bring experience in the business of startups &mdash;
-the team I led at Xamarin worked closely with finance, sales, and executive
-teams to devise and build new approaches to collating and understanding business
-data, and extract insights that correlated to how we built and shipped our
-software.
+I'm also an active builder &mdash; I stay technical through experimentation, open-source
+contributions, and voracious reading. I'm particularly excited about applied AI and
+platform engineering: I believe agentic AI will be transformative for how we build software,
+and that strong engineering platforms become more important, not less, in the AI age.
 
 ## Experience
 
