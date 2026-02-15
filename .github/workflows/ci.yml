@@ -16,11 +16,14 @@ jobs:
         with:
           ruby-version: 4.0.1
           bundler-cache: true
-      - name: 🔨 install dependencies & build site
-        uses: limjh16/jekyll-action-ts@v2
+      - name: 🔨 build site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: ✨ format html output
+        uses: actionsx/prettier@v3
         with:
-          enable_cache: true
-          format_output: true
+          args: --write "_site/**/*.html"
       - name: 🗜 ship the artifact for review
         uses: actions/upload-artifact@v6
         with:
