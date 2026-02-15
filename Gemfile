@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.4.0"
 gem "csv"
 gem "ostruct"
 
