@@ -25,7 +25,7 @@ jobs:
         with:
           args: --write "_site/**/*.html"
       - name: 🗜 ship the artifact for review
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: site
           path: _site
@@ -36,7 +36,7 @@ jobs:
     environment: test
     steps:
       - name: ⬇ download artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: site
           path: _site
@@ -62,7 +62,7 @@ jobs:
     environment: production
     steps:
       - name: ⬇ download artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: site
           path: _site
